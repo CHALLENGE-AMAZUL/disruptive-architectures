@@ -11,6 +11,7 @@ FIAP · Análise e Desenvolvimento de Sistemas · Disruptive Architectures: IoT,
 | **Vídeo pitch (YouTube, não listado)** | https://youtu.be/G2_cnfmsUZI |
 | **Design System (fluxograma do sistema)** | [`design-system/design-system-chaveiro-passaporte.svg`](design-system/design-system-chaveiro-passaporte.svg) |
 | **Fluxograma interativo (Excalidraw)** | [abrir no Excalidraw](https://excalidraw.com/#json=2TulqWKhCVXWzyDQ_-Kv0,DDHy8RHHJvTlpH9j04l5Hw) |
+| **Arquitetura detalhada** | [`docs/ARQUITETURA.md`](docs/ARQUITETURA.md) |
 | **Documento completo (PDF, padrão ABNT)** | [`docs/proposta-chaveiro-passaporte-S1.pdf`](docs/proposta-chaveiro-passaporte-S1.pdf) |
 
 ## Grupo
@@ -185,5 +186,6 @@ Confirmar a versão do Oracle e o mapa de pinos do ESP32-S3, escolher os provedo
 │   ├── design-system-chaveiro-passaporte.svg      ← fluxograma do sistema
 │   └── design-system-chaveiro-passaporte.png      ← mesma imagem em PNG
 └── docs/
-    └── proposta-chaveiro-passaporte-S1.pdf     ← proposta completa (ABNT)
+    ├── ARQUITETURA.md                          ← arquitetura detalhada
+    └── proposta-chaveiro-passaporte-S1.pdf     ← proposta completa (ABNT, extra)
 ```
